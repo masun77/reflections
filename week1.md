@@ -8,7 +8,7 @@ r/datavis. The visualizations I chose were a set of
 
 The first showed standings by stage:
 
-![img.png](img.png)
+![img.png](img/img.png)
 
 What's nice about the visualizations is how simple
 and interactive it is. It allows the user to replay
@@ -27,7 +27,7 @@ but doesn't seem to correspond to any meaning.
 
 Another visualization on the page shows the ranks of all riders:
 
-![img_1.png](img_1.png)
+![img_1.png](img/img_1.png)
 
 Similarly to the first one, this one shows rank across the stages, and can be
 replayed or clicked to a specific stage. The user can sort
