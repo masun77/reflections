@@ -8,7 +8,7 @@ then investigates interactive 3D visualizations of food webs. For example, compa
  the following images of
 a 2D food web and a snapshot of an interactive 3D web:
 
-![2D web](img/2dweb.JPG) ![3D web](img/3dweb.JPG) 
+![2D web](img/2dweb.JPG) ![3D web](img/3Dweb.JPG) 
 
 The paper describes "visualizations of food webs that use intuitive node placement, minimal edge-crossing and link length, 
 hierarchical node aggregation, and analysis tool integration." Other papers describe
