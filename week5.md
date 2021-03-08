@@ -5,7 +5,7 @@ from the Data is Plural email. It's a map of the world which
 allows the user to zoom in and out, pan, and select attributes
 to be displayed using color and luminance. 
 
-[soil map](img/soil%20chart.JPG)
+![soil map](img/soil%20chart.JPG)
 
 The data is tabular data with a lot of attributes sampled
 discretely across the continuous space of the earth's surface. 
